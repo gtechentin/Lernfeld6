@@ -1,7 +1,3 @@
-Hier ist die formatiere Version des Textes:
-
----
-
 **Projekt: Einführung eines Managed Cloud Service Angebots basierend auf ITIL 4**
 
 **Projektbeschreibung:**
