@@ -80,9 +80,7 @@ Unser Unternehmen plant die Einführung eines Managed Cloud Service Angebots, da
 
 1. **Klarheit und Erwartungsmanagement:** Ein SLA schafft Transparenz und stellt sicher, dass beide Parteien eine gemeinsame Vorstellung davon haben, welche Dienstleistungen erbracht werden und welche Standards eingehalten werden müssen. Dies hilft, Missverständnisse und Unklarheiten zu vermeiden.
 2. **Messbare Leistung:** Durch die Definition von Leistungskennzahlen (KPIs) ermöglicht ein SLA die objektive Messung und Bewertung der Servicequalität. Dies ist entscheidend, um sicherzustellen, dass der Serviceanbieter seinen Verpflichtungen nachkommt und kontinuierlich die erwartete Servicequalität liefert.
-3. **Verantwortlichkeiten festlegen:** Ein SLA weist
-
- klare Verantwortlichkeiten sowohl dem Serviceanbieter als auch dem Kunden zu. Dies stellt sicher, dass beide Parteien wissen, welche Aufgaben sie erfüllen müssen, und fördert die Zusammenarbeit und das Verantwortungsbewusstsein.
+3. **Verantwortlichkeiten festlegen:** Ein SLA weist klare Verantwortlichkeiten sowohl dem Serviceanbieter als auch dem Kunden zu. Dies stellt sicher, dass beide Parteien wissen, welche Aufgaben sie erfüllen müssen, und fördert die Zusammenarbeit und das Verantwortungsbewusstsein.
 4. **Eskalationsverfahren:** Ein SLA beinhaltet Eskalationsprozesse, die aktiviert werden, wenn Probleme nicht rechtzeitig gelöst werden. Dies stellt sicher, dass kritische Vorfälle und Probleme schnell und effektiv bearbeitet werden.
 5. **Kontinuierliche Verbesserung:** Durch regelmäßige Überprüfungen und Berichterstattung ermöglicht ein SLA die kontinuierliche Überwachung der Serviceleistung und die Identifikation von Verbesserungspotenzialen. Dies trägt dazu bei, die Servicequalität ständig zu verbessern.
 6. **Vertrauensbasis schaffen:** Ein gut definiertes SLA stärkt das Vertrauen zwischen dem Serviceanbieter und dem Kunden, da es eine verbindliche Vereinbarung über die Servicequalität darstellt. Dies fördert eine langfristige und stabile Geschäftsbeziehung.
