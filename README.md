@@ -200,9 +200,7 @@ Unser Unternehmen plant die Einführung eines Managed Cloud Service Angebots, da
   - **Appell:** Der Manager fordert eine detaillierte Beschreibung.
 
 **Analyse:**
-Das Gespräch zeigt eine klare Struktur, in der der Help-Desk-Manager versucht, das Problem des Nutzers zu verstehen. Die Fragen des Managers sind teils offen, um detaillierte Antworten zu erhalten, jedoch fehlt manchmal die Empathie, die das Vertrauen des Nutzers stärken könnte. Durch die Anwendung des Vier-Seiten-Modells wird deutlich, dass der Manager mehr auf die Selbst
-
-offenbarung und die Beziehungsebene eingehen könnte, um das Gespräch effektiver und unterstützender zu gestalten.
+Das Gespräch zeigt eine klare Struktur, in der der Help-Desk-Manager versucht, das Problem des Nutzers zu verstehen. Die Fragen des Managers sind teils offen, um detaillierte Antworten zu erhalten, jedoch fehlt manchmal die Empathie, die das Vertrauen des Nutzers stärken könnte. Durch die Anwendung des Vier-Seiten-Modells wird deutlich, dass der Manager mehr auf die Selbstoffenbarung und die Beziehungsebene eingehen könnte, um das Gespräch effektiver und unterstützender zu gestalten.
 
 **Optimierter Gesprächsverlauf:**
 
